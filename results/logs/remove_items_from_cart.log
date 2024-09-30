@@ -1,0 +1,4 @@
+2024-09-29 18:18:30,580 - INFO - Starting 'remove_items_from_cart' test
+2024-09-29 18:18:33,178 - INFO - All products were SUCCESSFULLY added to the cart
+2024-09-29 18:18:33,397 - INFO - All products were SUCCESSFULLY removed from the cart
+2024-09-29 18:18:33,397 - INFO - Finishing 'remove_items_from_cart' test

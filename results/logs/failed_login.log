@@ -1,0 +1,3 @@
+2024-09-29 18:17:59,619 - INFO - Starting 'failed_login' test
+2024-09-29 18:18:02,912 - ERROR - Wrong credentials
+2024-09-29 18:18:02,916 - INFO - Finishing 'failed_login' test

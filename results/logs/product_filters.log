@@ -1,0 +1,4 @@
+2024-09-29 18:18:20,927 - INFO - Starting 'product_filters' test
+2024-09-29 18:18:23,930 - INFO - 'standard_user' has been log in successfully
+2024-09-29 18:18:24,018 - INFO - Filter tested: 'Name (A to Z)'
+2024-09-29 18:18:24,018 - INFO - Finishing 'product_filters' test

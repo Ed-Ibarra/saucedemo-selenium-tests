@@ -1,0 +1,3 @@
+2024-09-29 18:17:17,770 - INFO - Starting 'add_items_to_cart' test
+2024-09-29 18:17:20,335 - INFO - All products were SUCCESSFULLY added to the cart
+2024-09-29 18:17:20,336 - INFO - Finishing 'add_items_to_cart' test
