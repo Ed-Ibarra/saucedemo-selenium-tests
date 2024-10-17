@@ -1,5 +1,0 @@
-2024-09-29 18:17:37,849 - INFO - Starting 'all_users' test
-2024-09-29 18:17:41,823 - ERROR - Something went wrong with the user: locked_out_user
-2024-09-29 18:17:52,369 - INFO - PASS to login: standard_user, problem_user, performance_glitch_user, error_user, visual_user
-2024-09-29 18:17:52,369 - INFO - FAIL to login: locked_out_user
-2024-09-29 18:17:52,369 - INFO - Finishing 'all_users' test
